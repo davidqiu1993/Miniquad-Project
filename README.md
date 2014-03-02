@@ -1,8 +1,8 @@
-#Miniquad Project
+#Miniquad(C) the Flight Robot Project
 Miniquad(C) the Flight Robot Project is a research project on small quadcopter 
 of the Robot Club, School of Software, Sun Yat-Sen University.
 
-#Directories
+##Directory Structures
 - `Development Environment` : The files or programs possibly necessary for 
     setting up the development environment.
     - `Drivers` : The drivers for devices used during the development 
@@ -27,5 +27,5 @@ of the Robot Club, School of Software, Sun Yat-Sen University.
         contents.
     - `Miniquad Software` : The programs that run on the Miniquad(C) robot.
 
-#Members
+##Project Members
 - David Qiu (david@davidqiu.com / www.davidqiu.com)
