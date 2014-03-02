@@ -28,4 +28,4 @@ of the Robot Club, School of Software, Sun Yat-Sen University.
     - `Miniquad Software` : The programs that run on the Miniquad(C) robot.
 
 #Members
-    - David Qiu (david@davidqiu.com)
+- David Qiu (david@davidqiu.com)
