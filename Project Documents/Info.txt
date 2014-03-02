@@ -1,0 +1,8 @@
+Board: Arduiono Nano w/ ATmega328
+
+Sensors: Accel+Gyro(MPU-6050), Digital Compass(), Wireless().
+
+Motors: 6, 9, 11, 10 (Counter-clockwise)
+	- pinMode: OUTPUT, analogWrite
+	- speed: test from 10.
+
