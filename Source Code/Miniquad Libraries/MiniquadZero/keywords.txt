@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For MiniquadZero
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+MiniquadZero	KEYWORD1
+Rotation	KEYWORD1
+EulerAngle	KEYWORD1
+YawPitchRoll	KEYWORD1
+Gravity	KEYWORD1
+Acceleration	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+Initialize	KEYWORD2
+PropellerSetSpeed	KEYWORD2
+PropellerSetAllSpeeds	KEYWORD2
+PropellerStopAll	KEYWORD2
+GetTemperature	KEYWORD2
+GetRotation	KEYWORD2
+RefreshDmpData	KEYWORD2
+GetQuaternion	KEYWORD2
+GetEulerAngle	KEYWORD2
+GetGravity	KEYWORD2
+GetYawPitchRoll	KEYWORD2
+GetLinearAcceleration	KEYWORD2
+GetWorldAcceleration	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PROPELLER1	LITERAL1
+PROPELLER2	LITERAL1
+PROPELLER3	LITERAL1
+PROPELLER4	LITERAL1
+PPL1	LITERAL1
+PPL2	LITERAL1
+PPL3	LITERAL1
+PPL4	LITERAL1
